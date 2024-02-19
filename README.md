@@ -69,3 +69,4 @@ Check version
 
 Install Cypress
     npm install cypress --save-dev
+    npm install -D cypress-xpath

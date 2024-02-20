@@ -1,14 +1,14 @@
 {
   "name": "package.json",
   "version": "1.0.0",
-  "description": "Srilu Cypress TypeScript on VSCode",
+  "description": "Srilu Cypress JavaScript on VSCode",
   "main": "cypress.config.js",
   "scripts": {
     "test": "npx cypress open"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SriluBalla/Srilu-Cypress-Ty.git"
+    "url": "git+https://github.com/SriluBalla/Srilu-Cypress-Js.git"
   },
   "keywords": [
     "Srilu",
@@ -17,9 +17,9 @@
   "author": "Srilu Balla",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SriluBalla/Srilu-Cypress-Ty/issues"
+    "url": "https://github.com/SriluBalla/Srilu-Cypress-Js/issues"
   },
-  "homepage": "https://github.com/SriluBalla/Srilu-Cypress-Ty#readme",
+  "homepage": "https://github.com/SriluBalla/Srilu-Cypress-Js#readme",
   "devDependencies": {
     "cypress-dotenv": "^2.0.0",
     "cypress-xpath": "^2.0.1",

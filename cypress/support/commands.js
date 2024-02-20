@@ -1,6 +1,6 @@
 
 Cypress.Commands.add('GoToLuma', () => {
-    cy.visit('https://magento.softwaretestingboard.com/')
+    cy.visit(Cypress.env('baseUrl'))
     cy.contains('This is a demo store to test your test automaiton scripts. No orders will be fulfilled. If you are facing any issue, email us at hello@softwaretestingboard.com.').should('be.visible')
 })
 

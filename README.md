@@ -1,7 +1,7 @@
 # Srilu-Cypress-Ty
 Cypress with JavaScript
 
-https://youtu.be/rwZzIQcIyKw
+https://youtu.be/rpB6vAQNmP8
 
 
 ##To Run tests

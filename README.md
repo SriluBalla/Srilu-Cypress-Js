@@ -8,12 +8,12 @@ To Run tests
 
 Git Stuff 
 
-    git checkout -b "name"
+    git status
     git add --all
     git commit -a -m "message"
     git push --set-upstream origin
 
-    
+    git checkout -b "name"    
     git checkout develop
     git fetch
     git pull

@@ -1,7 +1,10 @@
 # Srilu-Cypress-Ty
 Cypress with JavaScript
 
-To Run tests
+https://youtu.be/rwZzIQcIyKw
+
+
+##To Run tests
 
     npx cypress open
 
